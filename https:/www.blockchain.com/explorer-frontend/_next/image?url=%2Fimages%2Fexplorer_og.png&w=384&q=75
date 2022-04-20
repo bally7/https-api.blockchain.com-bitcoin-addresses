@@ -1,0 +1,39 @@
+        </meta>
+        <meta content="The easiest and most trusted transaction search engine and block explorer." property="og:description">
+        </meta>
+        <meta content="https://www.blockchain.com/explorer-frontend/_next/image?url=%2Fimages%2Fexplorer_og.png&w=384&q=75" property="og:image">
+        </meta>
+        <meta content="Explorer Homepage" property="og:image:alt">
+        </meta>
+        <meta content="image/png" property="og:image:type">
+        </meta>
+        <meta content="1200" property="og:image:width">
+        </meta>
+        <meta content="630" property="og:image:height">
+        </meta>
+        <meta content="Blockchain.com Explorer | BCH | ETH | BCH" name="twitter:card">
+        </meta>
+        <meta content="https://www.blockchain.com/explorer-frontend/_next/image?url=%2Fimages%2Fexplorer_og.png&w=384&q=75" name="twitter:image">
+        </meta>
+        <meta content="Explorer Homepage" name="twitter:image:alt">
+        </meta>
+        <meta content="The easiest and most trusted transaction search engine and block explorer." name="twitter:description">
+        </meta>
+        <style nonce="539bc73c-002a-45d7-8831-ebec2fa0c60d">
+                  html {
+                      height: 100%;
+                      min-height: 100%;
+                      max-width: 100%;
+                      margin: 0;
+                      padding: 0;
+                  }
+                  body {
+                      height: 100%;
+                      min-height: 100%;
+                      max-width: 100%;
+                      margin: 0;
+                      padding: 0;
+                      font-size: 100%;
+                      font-style: normal;
+                      -webkit-font-smoothing: antialiased;
+                      text-rendering: optimizeLegibility;
